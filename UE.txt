@@ -1,0 +1,4 @@
+-- SOURCE_NOT_PUBLISHED
+-- The original uploaded UE.txt is approximately 14.5 MB.
+-- It has not been copied here, so the Raw loader intentionally refuses to execute it.
+-- Replace this placeholder with the reviewed original source before using Loading.lua.
